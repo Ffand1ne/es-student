@@ -1,0 +1,11 @@
+]633;E;git --version;d92924ae-e98d-4deb-b147-d488b2177c4e]633;Cgit version 2.34.1
+Python 3.10.12
+cmake version 3.22.1
+GNU Make 4.3
+arm-none-eabi-gcc (15:10.3-2021.07-4) 10.3.1 20210621 (release)
+Command 'code' not found, but can be installed with:
+sudo snap install code
+code 
+picotool v2.3.0 (Linux, GNU-11.4.0, Release)
+pico-sdk 2.3.0
+PICO_SDK_PATH=/home/maxon/Downloads/es-book/pico-sdk
